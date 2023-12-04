@@ -14,6 +14,7 @@ The analysis of medical imaging data (CT, MRI and PET) using artificial intellig
 - PD Dr. med. Jan C. Peeken (Group Head)
 - Dr. med. Lucas Etzel (Physician Scientist)
 - May Ngyuen (Physician Scientist)
+- Daniel Rusche (Physician Scientist)
 - Dr. med. Dr. rer. Nat. Kim Kraus (Physician Scientist)
 - Óscar Salvador Llorián (MSc, PhD-Student)
 - Fernando Navarro (MSc, PhD-Student)
