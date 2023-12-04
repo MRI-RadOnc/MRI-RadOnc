@@ -1,4 +1,14 @@
-### Hi there 👋
+# Research Group Artificial Intelligence and Radiomics
+
+The analysis of medical imaging data (CT, MRI and PET) using artificial intelligence (AI) methods enables the non-invasive characterization of biological tissues. In our research group, we are working on current AI methods, such as radiomics or neural networks, to investigate tumors of affected patients. We develop models to achieve improved predictions of patient prognosis, enable response to therapy and determine non-invasive molecular-pathological characteristics. Furthermore, we explore the added value of AI methods in medical therapy planning.
+
+### Research Focus
+- AI-based analysis for patients with brain metastases (AURORA Multicenter Study of the DEGRO Stereotaxy Working Group)
+- AI-based analysis of patients with anal carcinomas (DKTK Multicenter Study)
+- AI-based analysis of patients with soft tissue sarcomas
+- AI-based analysis of patients with prostate cancer
+- Development and improvement of neural networks for the segmentation of tumors and organs at risk
+- Prediction of radiotherapy side effects 
 
 <!--
 **MRI-RadOnc/MRI-RadOnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
