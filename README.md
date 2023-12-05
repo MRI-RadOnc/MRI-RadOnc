@@ -20,7 +20,7 @@ The analysis of medical imaging data (CT, MRI and PET) using artificial intellig
 - Fernando Navarro (MSc, PhD-Student)
 - Stefan Fischer (MSc, PhD-Student)
 - Johannes Kiechle (MSc, PhD-Student)
-- Can Erdu (MSc, PhD-Student)
+- Can Erdur (MSc, PhD-Student)
 - Daniel Scholz (MSc, PhD-Student)
 - Mohamed Shouman (Medical PhD-Student)
 - Nora Windeler (Medical PhD-Student)
