@@ -9,7 +9,7 @@ The analysis of medical imaging data (CT, MRI and PET) using artificial intellig
 - AI-based analysis of patients with prostate cancer
 - Development and improvement of neural networks for the segmentation of tumors and organs at risk
 - Prediction of radiotherapy side effects
-
+<!--
 ### Research Staff
 - PD Dr. med. Jan C. Peeken (Group Head)
 - Dr. med. Lucas Etzel (Physician Scientist)
@@ -27,7 +27,7 @@ The analysis of medical imaging data (CT, MRI and PET) using artificial intellig
 - Josef Buchner (Medical PhD-Student)
 - Maksym Oreshko (Medical PhD-Student)
 
-<!--
+
 **MRI-RadOnc/MRI-RadOnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
