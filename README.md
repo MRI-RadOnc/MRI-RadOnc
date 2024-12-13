@@ -1,14 +1,17 @@
 # Research Group Artificial Intelligence and Radiomics
 
-The analysis of medical imaging data (CT, MRI and PET) using artificial intelligence (AI) methods enables the non-invasive characterization of biological tissues. In our research group, we are working on current AI methods, such as radiomics or neural networks, to investigate tumors of affected patients. We develop models to achieve improved predictions of patient prognosis, enable response to therapy and determine non-invasive molecular-pathological characteristics. Furthermore, we explore the added value of AI methods in medical therapy planning.
+Our research group focuses on the integration of  artificial intelligence (AI) techniques in oncology. By leveraging both machine learning and state-of-the-art large language models (LLMs), we aim to enhance the management of complex clinical data, facilitate more informed treatment decisions, and support medical professionals in refining patient care strategies. In addition, our work includes the automated analysis of medical imaging data—such as CT, MRI, and PET—to non-invasively characterize biological tissues and reveal critical insights into tumor behavior. Through radiomics, neural networks, and transformer-based LLMs, we develop models that improve prognosis prediction, therapy response assessment, and the determination of non-invasive molecular-pathological characteristics, ultimately driving precision medicine in oncology. We also seek to elucidate the added value of AI methodologies for therapy planning and patient-specific treatment adaptation.
 
 ### Research Focus
+- LLMs to support medical decision making
+- Value of multimodal foundation models
 - AI-based analysis for patients with brain metastases (AURORA Multicenter Study of the DEGRO Stereotaxy Working Group)
 - AI-based analysis of patients with anal carcinomas (DKTK Multicenter Study)
 - AI-based analysis of patients with soft tissue sarcomas
 - AI-based analysis of patients with prostate cancer
 - Development and improvement of neural networks for the segmentation of tumors and organs at risk
 - Prediction of radiotherapy side effects
+  
 <!--
 ### Research Staff
 - PD Dr. med. Jan C. Peeken (Group Head)
